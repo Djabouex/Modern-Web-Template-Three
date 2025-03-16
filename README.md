@@ -54,7 +54,6 @@ This project represents a leap forward in my web development journey. While the 
 ---
 
 ## 📚 Resources Used
-- **Original PSD Template:** [Graphberry Leon Template](https://www.graphberry.com/item/leon-psd-agency-template)
 - **Icons:** [Font Awesome](https://fontawesome.com/)
 - **Images:** [Unsplash](https://unsplash.com/)
 
