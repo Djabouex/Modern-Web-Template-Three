@@ -72,3 +72,22 @@ This project represents a leap forward in my web development journey. While the 
 ## 💬 Feedback
 I am continuously improving my skills, and your feedback is valuable!  
 Feel free to open an issue or share your suggestions 🚀
+
+---
+
+## Support Me
+If you find this project useful or inspiring, consider supporting me with a donation:
+
+### Bitcoin (BTC):
+**Bitcoin Address:**  
+`bc1q3smxjtjesh3km3rl0y89nyg964esdjkkmtwyhm`  
+
+### Ethereum (ETH):
+**Ethereum Address:**  
+`0x891c40D9ac520DC6c8827eDD744ee15c472e88Ff`  
+
+### USDT (ERC-20):
+**USDT Address:**  
+`0x891c40D9ac520DC6c8827eDD744ee15c472e88Ff`  
+
+💖 **Thank you for your support!**
